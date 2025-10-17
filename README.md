@@ -30,9 +30,8 @@ The profile card includes the following sections:
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - Basic understanding of HTML/CSS/JavaScript (for modifications)
 
-## 📁 File Structure
+## File Structure
 profile-card/
-│
 ├── index.html              # Main HTML file
 ├── Abdulhakeem Sule .jpg   # Profile avatar image
 ├── github.png              # GitHub social icon
@@ -58,7 +57,7 @@ background: linear-gradient(135deg, #66d6ea 0%, #918fff 100%);
 /* Header gradient */
 background: linear-gradient(135deg, #2c51f3 0%, #62e0ff 100%);
 
-## ✨ Features Breakdown
+## Features Breakdown
 ### Real-time Timestamp
 The card displays the current time in milliseconds, updated every second using JavaScript:
 ```javascript
@@ -95,9 +94,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 - Design inspiration from modern profile card layouts
