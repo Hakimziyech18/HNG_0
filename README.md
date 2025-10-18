@@ -1,5 +1,4 @@
 # Frontend Wizards — Stage 0 Task: Profile Card
-
 This project is my submission for the HNG-13 Frontend Track (Stage 0) task.  
 It's a responsive and accessible Profile Card built using semantic HTML, modern CSS and vanilla JavaScript.  
 The design follows all the requirements in the task document and includes smooth animations and a gradient design to make the interface visually appealing.
@@ -21,7 +20,7 @@ The Profile Card displays key user details, including:
 
 Every visible element includes a `data-testid` attribute to make automated testing easy and reliable.
 
-## 🧩 Features Implemented
+# 🧩 Features Implemented
 | Feature | Description |
 |---------|-------------|
 | 🏗 **Semantic HTML Structure** | Used `<article>`, `<header>`, `<section>`, `<figure>`, `<nav>`, and other semantic elements for accessibility. |
@@ -32,13 +31,13 @@ Every visible element includes a `data-testid` attribute to make automated testi
 | ♿ Accessibility | Included `alt` text for images, semantic tags, `aria-labels`, and ensured all links are keyboard-focusable. |
 | 🌍 Deployment Ready | Can be easily deployed on Netlify, Vercel, or GitHub Pages. |
 
-## 🛠 Technologies Used
+# 🛠 Technologies Used
 - HTML5
 - CSS3 (Flexbox, Gradients, Transitions)
 - Vanilla JavaScript (ES6)
 - Netlify (Deployment)
 
-## 📂 Folder Structure
+# 📂 Folder Structure
 ```
 profile-card/
 │
@@ -50,8 +49,7 @@ profile-card/
 └── README.md
 ```
 
-## ⚙️ How to Run Locally
-
+# ⚙️ How to Run Locally
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Hakimziyech18/profile-card.git
@@ -66,8 +64,7 @@ profile-card/
 
 That's it! 🎉
 
-## ✅ Test IDs Checklist
-
+# ✅ Test IDs Checklist
 | Element | data-testid |
 |---------|-------------|
 | Profile Card | `test-profile-card` |
@@ -82,16 +79,14 @@ That's it! 🎉
 | Hobbies | `test-user-hobbies` |
 | Dislikes | `test-user-dislikes` |
 
-## 🧾 Notes
-
+# 🧾 Notes
 - All animations were implemented with pure CSS transitions.
 - Time updates dynamically every second using JavaScript.
 - Layout adjusts seamlessly for mobile, tablet, and desktop screens.
 - Social links open in new tabs with `rel="noopener noreferrer"` for security.
 - All images include proper `alt` attributes for screen readers.
 
-## 👤 Author
-
+# 👤 Author
 Name: Abdulhakeem Sule  
 Track: HNG-13 Frontend Track  
 Stage: 0  
@@ -99,6 +94,3 @@ Email: Suleadoyiza@gmail.com
 GitHub: [@Hakimziyech18](https://github.com/Hakimziyech18)  
 Twitter: [@hakiimii18](https://x.com/hakiimii18)  
 LinkedIn: [Adoyiza Sule](https://www.linkedin.com/in/adoyiza-sule-5a4b21374)
-⭐️ **If you found this project helpful, please consider giving it a star!**
-
-**Made with ❤️ by Abdulhakeem Sule**
